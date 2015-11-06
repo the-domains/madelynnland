@@ -1,0 +1,23 @@
+name: MadelynnLand
+favicon: null
+layout_spectrum: 0.24210930615663528
+typography_spectrum: 0.22010802174918354
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.19539926433935761
+  lightness: 0.3311129049398005
+  saturation: 0.6547243287786841
+  rhythmicContrast: 0.2965197144076228
+purpose: []
