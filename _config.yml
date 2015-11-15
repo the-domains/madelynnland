@@ -1,9 +1,7 @@
-favicon: null
 name: MadelynnLand
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.25207
+typography_spectrum: 0.3456998
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6547243287786841
-  brandStrength: 1
-  lightness: 0.3311129049398005
   brandColors:
     - '#4B2F1F'
     - '#A45B20'
     - '#B5907F'
     - '#FFFFFF'
     - '#BCC7D1'
+  brandStrength: 1
+  lightness: 0.3311129049398005
+  saturation: 0.6547243287786841
   rhythmicContrast: 0.2965197144076228
-typography_spectrum: 0.3456998
-layout_spectrum: 0.9974705
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+purpose: []
